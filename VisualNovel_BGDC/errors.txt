@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 708: expected statement.
+    elif choice_act3 == "act3_b":
+                     ^
+
+Ren'Py Version: Ren'Py 8.1.1.23060707
+Sat Jul 29 00:20:31 2023
